@@ -1,0 +1,57 @@
+
+
+.list {
+    ul {
+    display: flex;
+    justify-content: space;
+    align-items: center;
+    gap: 40px;
+    color: white;
+    cursor: pointer;
+    li {
+        list-style-type: none;
+    }
+}
+
+}
+
+ul {
+    a {
+    color: white;
+    text-decoration: none;}
+
+}
+
+ul {
+    a:hover {
+    color: aqua;
+}}
+
+.log_btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #00c46a;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+
+.logo img {
+    width: 30%
+}
+
+h1 {
+    text-transform: uppercase;
+    color: white;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    margin: 20px;
+    position: fixed;
+
+}

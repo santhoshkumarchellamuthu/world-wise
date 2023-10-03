@@ -1,0 +1,41 @@
+.pt_con {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    background-color: #42484d;
+    padding: 20px;
+    width: 100%;
+    border-radius: 7px;
+    overflow: scroll;
+    max-height: 70%;
+
+    color: white;
+
+}
+
+h6 {
+    color: #a5a5a5;
+    text-transform: uppercase;
+}
+
+h3 span {
+    font-size: 33px;
+}
+
+
+
+.sun {
+    font-size: 20px;
+    color: #d6e4e8;
+    margin-top: 10px;
+    text-align: start;
+}
+
+.backbtn button {
+    padding: 10px 20px;
+    background-color: transparent;
+    border: 1px solid white;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+}

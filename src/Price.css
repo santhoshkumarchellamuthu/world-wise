@@ -1,0 +1,14 @@
+.price {
+    background-color: #2d3439;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    width: 100%;
+    padding: 50px;
+    height: 100vh;
+}
+
+.images img {
+    width: 50%;
+}

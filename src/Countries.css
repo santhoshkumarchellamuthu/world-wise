@@ -1,0 +1,37 @@
+.country {
+    background-color: #2d3439;
+    /* height: 100vh; */
+    width: 100%;
+    /* padding: 50px; */
+
+}
+
+
+
+.pto {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 50px;
+    background-color: #42484d;
+    width: 35%;
+    height: 100px;
+    border-left: 8px solid yellowgreen;
+    border-radius: 10px;
+
+
+
+
+}
+
+.world {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 25px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
